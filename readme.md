@@ -64,3 +64,4 @@ You can customize the application's behavior using environment variables. The `.
 - `DB_NAME`: Name of your PostgreSQL database
 - `DB_PORT`:  PostgreSQL port (default is 5432)
 
+Demo Video can be found at https://we.tl/t-mGp6dQe8tt
